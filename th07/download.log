@@ -1,0 +1,94 @@
+2023-05-10 22:56:17.685802 [ERROR] [AbstractCommand.cc:349] CUID#9 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/03.%20Crystallized%20Silver.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/03.%20Crystallized%20Silver.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 22:56:17.728434 [ERROR] [AbstractCommand.cc:349] CUID#10 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/04.%20The%20Fantastic%20Tales%20from%20Tono.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/04.%20The%20Fantastic%20Tales%20from%20Tono.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 22:56:17.728823 [ERROR] [AbstractCommand.cc:349] CUID#11 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/05.%20Diao%20Ye%20Zong%20%28withered%20leaf%29.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/05.%20Diao%20Ye%20Zong%20%28withered%20leaf%29.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 22:56:17.787122 [ERROR] [AbstractCommand.cc:349] CUID#7 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/01.%20Ghostly%20Dream%20~%20Snow%20or%20Cherry%20Petal.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/01.%20Ghostly%20Dream%20~%20Snow%20or%20Cherry%20Petal.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 22:56:17.861994 [ERROR] [AbstractCommand.cc:349] CUID#8 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/02.%20Paradise%20~%20Deep%20Mountain.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/02.%20Paradise%20~%20Deep%20Mountain.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:04:01.046101 [ERROR] [AbstractCommand.cc:377] CUID#43 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/09.%20Phantom%20Band%20~%20Phantom%20Ensemble.flac
+Exception: [AbstractCommand.cc:340] errorCode=2 超时。
+2023-05-10 23:04:01.844120 [ERROR] [AbstractCommand.cc:377] CUID#87 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/15.%20Spiritual%20Domination.flac
+Exception: [SocketCore.cc:885] errorCode=1 接收数据失败，原因：Error decoding the received TLS packet.
+2023-05-10 23:04:01.914331 [ERROR] [AbstractCommand.cc:349] CUID#94 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/16.%20A%20Maiden%27s%20Illusionary%20Funeral%20~%20Necro-Fantasy.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/16.%20A%20Maiden%27s%20Illusionary%20Funeral%20~%20Necro-Fantasy.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:04:02.350304 [ERROR] [AbstractCommand.cc:349] CUID#78 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/14.%20Border%20of%20Life.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/14.%20Border%20of%20Life.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:04:02.407727 [ERROR] [AbstractCommand.cc:349] CUID#67 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/11.%20Hiroari%20Shoots%20a%20Strange%20Bird%20~%20Till%20When.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/11.%20Hiroari%20Shoots%20a%20Strange%20Bird%20~%20Till%20When.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:04:02.408262 [ERROR] [AbstractCommand.cc:349] CUID#77 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/13.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/13.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:04:02.408473 [ERROR] [AbstractCommand.cc:349] CUID#88 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/15.%20Spiritual%20Domination.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/15.%20Spiritual%20Domination.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:04:02.533205 [ERROR] [AbstractCommand.cc:349] CUID#97 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/17.%20Spiritual%20Domination%20~%20Who%20done%20it%21.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/17.%20Spiritual%20Domination%20~%20Who%20done%20it%21.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:04:03.572694 [ERROR] [AbstractCommand.cc:349] CUID#108 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/20.%20Sakura%2C%20Sakura%20~%20Japanize%20Dream....flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/20.%20Sakura%2C%20Sakura%20~%20Japanize%20Dream....flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: 收到一个未预期的 TLS 数据包。
+2023-05-10 23:04:03.573368 [ERROR] [AbstractCommand.cc:349] CUID#100 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/18.%20Necrofantasia.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/18.%20Necrofantasia.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: 收到一个未预期的 TLS 数据包。
+2023-05-10 23:04:03.576047 [ERROR] [AbstractCommand.cc:349] CUID#107 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/19.%20Dream%20of%20a%20Spring%20Breeze.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/19.%20Dream%20of%20a%20Spring%20Breeze.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: 收到一个未预期的 TLS 数据包。
+2023-05-10 23:09:39.983726 [ERROR] [AbstractCommand.cc:349] CUID#41 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/10.%20Eastern%20Ghostly%20Dream%20~%20Ancient%20Temple.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://ia601609.us.archive.org/22/items/touhou-7-original-soundtrack/10.%20Eastern%20Ghostly%20Dream%20~%20Ancient%20Temple.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:39.989616 [ERROR] [AbstractCommand.cc:349] CUID#42 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/09.%20Phantom%20Band%20~%20Phantom%20Ensemble.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://ia801609.us.archive.org/22/items/touhou-7-original-soundtrack/09.%20Phantom%20Band%20~%20Phantom%20Ensemble.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:40.315651 [ERROR] [AbstractCommand.cc:349] CUID#50 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/12.%20Ultimate%20Truth.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/12.%20Ultimate%20Truth.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:40.322856 [ERROR] [AbstractCommand.cc:349] CUID#12 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/01.%20Ghostly%20Dream%20~%20Snow%20or%20Cherry%20Petal.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/01.%20Ghostly%20Dream%20~%20Snow%20or%20Cherry%20Petal.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:40.461337 [ERROR] [AbstractCommand.cc:349] CUID#32 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/02.%20Paradise%20~%20Deep%20Mountain.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/02.%20Paradise%20~%20Deep%20Mountain.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:40.461766 [ERROR] [AbstractCommand.cc:349] CUID#17 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/04.%20The%20Fantastic%20Tales%20from%20Tono.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/04.%20The%20Fantastic%20Tales%20from%20Tono.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:40.462018 [ERROR] [AbstractCommand.cc:349] CUID#47 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/11.%20Hiroari%20Shoots%20a%20Strange%20Bird%20~%20Till%20When.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/11.%20Hiroari%20Shoots%20a%20Strange%20Bird%20~%20Till%20When.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:40.786539 [ERROR] [AbstractCommand.cc:349] CUID#51 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/13.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/13.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:41.115955 [ERROR] [AbstractCommand.cc:349] CUID#54 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/14.%20Border%20of%20Life.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/14.%20Border%20of%20Life.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:41.136508 [ERROR] [AbstractCommand.cc:349] CUID#59 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/15.%20Spiritual%20Domination.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/15.%20Spiritual%20Domination.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:41.145695 [ERROR] [AbstractCommand.cc:349] CUID#60 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/16.%20A%20Maiden%27s%20Illusionary%20Funeral%20~%20Necro-Fantasy.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/16.%20A%20Maiden%27s%20Illusionary%20Funeral%20~%20Necro-Fantasy.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:41.153327 [ERROR] [AbstractCommand.cc:349] CUID#61 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/17.%20Spiritual%20Domination%20~%20Who%20done%20it%21.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/17.%20Spiritual%20Domination%20~%20Who%20done%20it%21.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:41.202187 [ERROR] [AbstractCommand.cc:349] CUID#62 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/18.%20Necrofantasia.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/18.%20Necrofantasia.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
+2023-05-10 23:09:41.942175 [ERROR] [AbstractCommand.cc:349] CUID#64 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/20.%20Sakura%2C%20Sakura%20~%20Japanize%20Dream....flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/20.%20Sakura%2C%20Sakura%20~%20Japanize%20Dream....flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: 收到一个未预期的 TLS 数据包。
+2023-05-10 23:09:42.033155 [ERROR] [AbstractCommand.cc:349] CUID#63 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/19.%20Dream%20of%20a%20Spring%20Breeze.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://archive.org/download/touhou-7-original-soundtrack/19.%20Dream%20of%20a%20Spring%20Breeze.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: 收到一个未预期的 TLS 数据包。
+2023-05-10 23:11:14.218665 [ERROR] [AbstractCommand.cc:349] CUID#8 - Download aborted. URI=https://archive.org/download/touhou-7-original-soundtrack/02.%20Paradise%20~%20Deep%20Mountain.flac
+Exception: [AbstractCommand.cc:351] errorCode=1 URI=https://ia601609.us.archive.org/22/items/touhou-7-original-soundtrack/02.%20Paradise%20~%20Deep%20Mountain.flac
+  -> [SocketCore.cc:1018] errorCode=1 SSL/TLS handshake failure: TLS 链接非正常地终止了。
